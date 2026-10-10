@@ -15,4 +15,4 @@ Allow: /
 User-agent: anthropic-ai
 Allow: /
 
-Sitemap: https://harideveloper.example.com/sitemap.xml
+Sitemap: https://github.com/sucaya-host/Hari-Devoloper/sitemap.xml
